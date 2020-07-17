@@ -9,6 +9,8 @@
 
 - Use the official GitHub [repository](https://github.com/BadlionClient/BadlionClientModAPI#mod-names-and-fields-that-can-be-disabled) of Badlion for the mod list.
 
+- When done entering mods press [Enter] and it will create the json for the plugin.
+
 **Warnings:**
 
 - This is a community project therefore unofficial and use at your own risk. If you are worried about security, you can easily view the source code with GitHub and use the original Python program.
